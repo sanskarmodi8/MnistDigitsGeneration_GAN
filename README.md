@@ -1,0 +1,1 @@
+# MnistDigitsGeneration_GAN
