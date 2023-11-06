@@ -4,3 +4,4 @@ matplotlib
 numpy
 keras
 IPython
+tensorflow-docs
