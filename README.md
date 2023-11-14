@@ -2,7 +2,7 @@
 
 This is a project for generating MNIST digit images using a Deep Convolutional Generative Adversarial Network (DCGAN). DCGAN is a type of generative model that can create realistic images from random noise. In this project, we will use TensorFlow to implement and train the DCGAN model for generating digit images.
 
-![Generated Image](gen_img.png)
+![Generated Image](https://github.com/sanskarmodi8/MnistDigitsGeneration_GAN/blob/main/gen_img.png)
 
 
 ## Prerequisites
